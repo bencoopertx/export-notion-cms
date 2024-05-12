@@ -1,0 +1,19 @@
+{
+    "name": "export-notion-page-data",
+    "version": "1.0.0",
+    "description": "Retrieves raw page and block data from Notion",
+    "main": "index.js",
+    "author": "Sean C Davis",
+    "license": "MIT",
+    "dependencies": {
+        "@madebyconnor/rich-text-from-notion": "^1.0.0-alpha.2",
+        "@notionhq/client": "^2.2.3",
+        "csv-writer": "^1.6.0",
+        "dotenv": "^16.0.3",
+        "html-minifier": "^4.0.0",
+        "notion-page-to-html": "^1.2.0",
+        "notion-to-md": "^3.1.1",
+        "rimraf": "^5.0.6",
+        "turndown": "^7.1.3"
+    }
+}

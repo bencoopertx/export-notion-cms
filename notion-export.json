@@ -1,0 +1,5005 @@
+[
+  {
+    "object": "page",
+    "id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14",
+    "created_time": "2024-05-08T07:24:00.000Z",
+    "last_edited_time": "2024-05-08T07:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+    },
+    "cover": {
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5defd48b-b76d-44df-bd9b-3d11b355eaa1/5ad1f542-65bc-4523-8872-8899bd1e8c0b/kylie-haulk-o9O-wBHfIbs-unsplash.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240508%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240508T201304Z&X-Amz-Expires=3600&X-Amz-Signature=ca23ff770f242b00bea75582521e95e868b6bbc324c6a037a2c0815948e25851&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "expiry_time": "2024-05-08T21:13:04.583Z"
+      }
+    },
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "59f3cf6e-e2f7-465f-b71a-b460f1f44d42"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Excerpt": {
+        "id": "%40OfT",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Get the scoop on the email design software tools that can take your email marketing to the next level. Find the perfect fit for your design needs.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Get the scoop on the email design software tools that can take your email marketing to the next level. Find the perfect fit for your design needs.",
+            "href": null
+          }
+        ]
+      },
+      "Related Posts": {
+        "id": "B%3Fjv",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "68220274-b7ba-4ae3-b063-ed3d1264b88c"
+          },
+          {
+            "id": "542f557e-3a69-49e8-a59c-a95169d4ff97"
+          },
+          {
+            "id": "ad91ea25-ce88-411f-82f3-da442f93a0e8"
+          },
+          {
+            "id": "7d79af88-9029-4804-9799-dbd4f1ead1f3"
+          },
+          {
+            "id": "b0e965c9-d05d-4725-a6c8-c1d7ca68b3d4"
+          },
+          {
+            "id": "1c89d65a-93bd-4955-a740-b052bc2da845"
+          },
+          {
+            "id": "e3246e5a-1c8d-4445-9bf6-a61e8bbbdc30"
+          },
+          {
+            "id": "f0a24c80-21a1-4b5b-b64c-598c4aad2319"
+          },
+          {
+            "id": "a158bfb7-8f18-4a4a-b239-7a4724829eaa"
+          },
+          {
+            "id": "59e0bbc8-24cb-437c-aaae-51ad0fe2f052"
+          },
+          {
+            "id": "8db76be6-7dcb-49df-9811-2678f448f128"
+          },
+          {
+            "id": "943b2615-9190-4bd2-bffa-0c65d3c19b5d"
+          },
+          {
+            "id": "4b91838b-3c27-4632-b1fb-82dbe0673634"
+          },
+          {
+            "id": "ea5fda6f-f0ec-41c1-bfa7-a9f2f8b4a547"
+          }
+        ],
+        "has_more": false
+      },
+      "Do not index": {
+        "id": "Dsia",
+        "type": "checkbox",
+        "checkbox": false
+      },
+      "Last Edited Time": {
+        "id": "H%7Dj%60",
+        "type": "last_edited_time",
+        "last_edited_time": "2024-05-08T07:33:00.000Z"
+      },
+      "Extra Info": {
+        "id": "Ibz%3E",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Ready to Publish": {
+        "id": "KKsH",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "Hide CTA": {
+        "id": "S%60da",
+        "type": "checkbox",
+        "checkbox": false
+      },
+      "Hide Cover": {
+        "id": "Upq%3C",
+        "type": "checkbox",
+        "checkbox": false
+      },
+      "Meta Description": {
+        "id": "WVCb",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Get the scoop on the email design software tools that can take your email marketing to the next level. Find the perfect fit for your design needs.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Get the scoop on the email design software tools that can take your email marketing to the next level. Find the perfect fit for your design needs.",
+            "href": null
+          }
+        ]
+      },
+      "Meta Title": {
+        "id": "WWGW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "17 Best Email Design Software For Designing Responsive Emails",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "17 Best Email Design Software For Designing Responsive Emails",
+            "href": null
+          }
+        ]
+      },
+      "Hide in Main Feed": {
+        "id": "ZiEH",
+        "type": "checkbox",
+        "checkbox": false
+      },
+      "Featured": {
+        "id": "iHVt",
+        "type": "checkbox",
+        "checkbox": false
+      },
+      "Tags": {
+        "id": "lxIl",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Publish Date": {
+        "id": "pmqG",
+        "type": "date",
+        "date": {
+          "start": "2024-05-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Authors": {
+        "id": "x%3EWL",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Slug": {
+        "id": "ylAp",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "email-design-software",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "email-design-software",
+            "href": null
+          }
+        ]
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "17 Best Email Design Software For Designing Responsive Emails",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "17 Best Email Design Software For Designing Responsive Emails",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/17-Best-Email-Design-Software-For-Designing-Responsive-Emails-c29ed8bd8c8c42a3951c534c1d25df14",
+    "public_url": "https://mailsplash.notion.site/17-Best-Email-Design-Software-For-Designing-Responsive-Emails-c29ed8bd8c8c42a3951c534c1d25df14",
+    "children": [
+      {
+        "object": "block",
+        "id": "2304089d-98ea-4b5f-8796-8ec6be13dd2a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Are you on the hunt for design software that makes creating eye-catching emails a breeze? You're in luck! ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Are you on the hunt for design software that makes creating eye-catching emails a breeze? You're in luck! ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Email design",
+                "link": {
+                  "url": "https://mailsplash.ai/blog/email-design"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Email design",
+              "href": "https://mailsplash.ai/blog/email-design"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " software can take your marketing and communications to the next level. No longer will you have to struggle with clunky templates, wonky layouts, or limited design choices. With Email design software, you can craft emails that make an impact with your audience. But that's not all! With email design software in your corner, you can create mobile-friendly emails that look great on any device. You'll never lose a potential lead or customer because they couldn't read your email on their phone. Email design software is the secret weapon you need to take your email game to the next level. Let's dive in!",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " software can take your marketing and communications to the next level. No longer will you have to struggle with clunky templates, wonky layouts, or limited design choices. With Email design software, you can craft emails that make an impact with your audience. But that's not all! With email design software in your corner, you can create mobile-friendly emails that look great on any device. You'll never lose a potential lead or customer because they couldn't read your email on their phone. Email design software is the secret weapon you need to take your email game to the next level. Let's dive in!",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "46a40090-b259-4eee-ba8b-9f6f7558f008",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "What Is An Email Design Software?",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "What Is An Email Design Software?",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "937a9972-9b30-4881-b382-ceeae74f79eb",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:28:00.000Z",
+        "last_edited_time": "2024-05-08T07:30:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Email Design Software",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Email Design Software",
+              "href": null
+            }
+          ],
+          "type": "file",
+          "file": {
+            "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5defd48b-b76d-44df-bd9b-3d11b355eaa1/d3e07ff6-3aa4-476c-a0ee-807c3ab26aff/firmbee-com-SpVHcbuKi6E-unsplash.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240508%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240508T201305Z&X-Amz-Expires=3600&X-Amz-Signature=6d2b4e10dedab0c0a6901cf20d1f29aa85799e6773d84a7c085fa8621e215aa9&X-Amz-SignedHeaders=host&x-id=GetObject",
+            "expiry_time": "2024-05-08T21:13:05.406Z"
+          }
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "969b891e-9773-4f0b-8468-16fb13dbf89d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Drag-and-drop editors are a game-changer for users looking to simplify their email design process. These editors eliminate the need for users to write code manually, making it easy for beginners and experienced designers alike to create visually engaging and responsive email communications.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Drag-and-drop editors are a game-changer for users looking to simplify their email design process. These editors eliminate the need for users to write code manually, making it easy for beginners and experienced designers alike to create visually engaging and responsive email communications.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "f5dcf478-8db7-4606-b0ba-488c669c2471",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "By dragging and dropping content elements like text, images, buttons, and dividers, users can quickly and intuitively design their emails. Drag-and-drop editors often include features like resizing, duplicating, and rearranging content elements, making it easy for users to experiment with ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "By dragging and dropping content elements like text, images, buttons, and dividers, users can quickly and intuitively design their emails. Drag-and-drop editors often include features like resizing, duplicating, and rearranging content elements, making it easy for users to experiment with ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "different email layouts",
+                "link": {
+                  "url": "https://www.elegantthemes.com/blog/design/email-layout-examples"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "different email layouts",
+              "href": "https://www.elegantthemes.com/blog/design/email-layout-examples"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "2135496c-09d4-4960-92ba-a1608767e976",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pre-Made Templates: A Quickstart for Stunning Email Designs",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pre-Made Templates: A Quickstart for Stunning Email Designs",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "76e4e94a-1817-4894-ad97-76b7cf7f0e78",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pre-made templates are a key feature of email design software that empowers users to create stunning emails without starting from scratch. These templates are professionally designed and often customizable, enabling users to maintain brand consistency while quickly launching email campaigns.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pre-made templates are a key feature of email design software that empowers users to create stunning emails without starting from scratch. These templates are professionally designed and often customizable, enabling users to maintain brand consistency while quickly launching email campaigns.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "ec78f2cb-51f1-4ee5-b0ba-02e4f2b7ce2b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "With pre-made templates, users can easily access a library of designs tailored to different industries, events, or purposes, saving time and effort in designing emails. Pre-made templates serve as inspiration for users who may be new to email design or seeking fresh ideas for their campaigns.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "With pre-made templates, users can easily access a library of designs tailored to different industries, events, or purposes, saving time and effort in designing emails. Pre-made templates serve as inspiration for users who may be new to email design or seeking fresh ideas for their campaigns.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "084d8b81-b0c5-4d68-aa57-ff3dba96e217",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Customization Options: Tailoring Emails to Brand Identity",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Customization Options: Tailoring Emails to Brand Identity",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "1e3a49e3-83e7-46e9-8b37-4c760b3f4912",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Customization options in email design software provide users with the flexibility to tailor their emails to their brand identity. Software solutions often include features like color pickers, fonts, and styling options, enabling users to match their email designs to their brand guidelines.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Customization options in email design software provide users with the flexibility to tailor their emails to their brand identity. Software solutions often include features like color pickers, fonts, and styling options, enabling users to match their email designs to their brand guidelines.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "974483ee-6cbf-473a-926e-fa6c6903d238",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "By customizing elements like headers, footers, backgrounds, and buttons, users can create emails that reflect their brand's personality and messaging. Customization options help users stand out in crowded inboxes, increase brand recognition, and maintain a cohesive brand experience across all email communications.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "By customizing elements like headers, footers, backgrounds, and buttons, users can create emails that reflect their brand's personality and messaging. Customization options help users stand out in crowded inboxes, increase brand recognition, and maintain a cohesive brand experience across all email communications.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "6bbbc3c8-ac97-4d6e-8c6b-06e186f45f62",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Integration with Email Service Providers: Streamlining Email Campaigns",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Integration with Email Service Providers: Streamlining Email Campaigns",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "9af66cef-c09e-4f37-886b-bebce9bd6af2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Integration with email service providers streamlines the email design process for users by enabling seamless email campaign creation and deployment. Email design software solutions often offer integration with popular email service providers, allowing users to design, test, and send emails directly from the same platform.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Integration with email service providers streamlines the email design process for users by enabling seamless email campaign creation and deployment. Email design software solutions often offer integration with popular email service providers, allowing users to design, test, and send emails directly from the same platform.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "24cb0ccb-2238-4b43-ae39-8e62d91f3c84",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "By connecting their email design software to their email service provider, users can leverage advanced features like audience segmentation, automation, and analytics to optimize their email campaigns. Integration with email service providers ensures that emails are delivered timely, engage recipients effectively, and drive desired actions.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "By connecting their email design software to their email service provider, users can leverage advanced features like audience segmentation, automation, and analytics to optimize their email campaigns. Integration with email service providers ensures that emails are delivered timely, engage recipients effectively, and drive desired actions.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "4d69e6e2-cf0d-41cb-a559-05af657dbeff",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Coding Editors: Advanced Customization for Experienced Designers",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Coding Editors: Advanced Customization for Experienced Designers",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "89c5aa1f-c622-4a4d-9216-6dd8d3de9bc1",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "While drag-and-drop editors cater to users of different skill levels, email design software often includes code-based editors for experienced designers seeking advanced customization. Coding editors enable users to access and edit the HTML and ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "While drag-and-drop editors cater to users of different skill levels, email design software often includes code-based editors for experienced designers seeking advanced customization. Coding editors enable users to access and edit the HTML and ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "CSS code",
+                "link": {
+                  "url": "https://www.hostinger.ph/tutorials/what-is-css"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "CSS code",
+              "href": "https://www.hostinger.ph/tutorials/what-is-css"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " of their emails directly, providing greater control over their email designs.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " of their emails directly, providing greater control over their email designs.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "971e790a-b759-452e-a491-e927d421d760",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Experienced designers can leverage coding editors to fine-tune design elements, troubleshoot rendering issues, and implement interactive features like animations and dynamic content. By combining drag-and-drop and coding editors, email design software caters to users with varying levels of expertise and design requirements.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Experienced designers can leverage coding editors to fine-tune design elements, troubleshoot rendering issues, and implement interactive features like animations and dynamic content. By combining drag-and-drop and coding editors, email design software caters to users with varying levels of expertise and design requirements.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "060f5a66-7daa-4a8f-9eea-ffe8533d65e2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Related Reading",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Related Reading",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "6382627c-2b3b-4ad4-81de-e6a840e7a347",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Email Layout",
+                "link": {
+                  "url": "https://mailsplash.ai/blog/email-layout"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Email Layout",
+              "href": "https://mailsplash.ai/blog/email-layout"
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "5bb3a4a0-53b6-47d3-ae26-667249e96997",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Unlayer",
+                "link": {
+                  "url": "https://mailsplash.ai/blog/unlayer"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Unlayer",
+              "href": "https://mailsplash.ai/blog/unlayer"
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "1b07dfa6-654e-4642-81fd-8caa98bf3c13",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Email Mockup",
+                "link": {
+                  "url": "https://mailsplash.ai/blog/email-mockup"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Email Mockup",
+              "href": "https://mailsplash.ai/blog/email-mockup"
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "2096fcd9-1148-4892-944b-41ab2a618321",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Email Header Design",
+                "link": {
+                  "url": "https://mailsplash.ai/blog/email-header-design"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Email Header Design",
+              "href": "https://mailsplash.ai/blog/email-header-design"
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "470031d3-8a7f-4d83-b44a-fd0657679b0f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "17 Best Email Design Software For Designing Responsive & Stunning Emails",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "17 Best Email Design Software For Designing Responsive & Stunning Emails",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "263ae641-7046-4d72-b505-b68d965498c4",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:29:00.000Z",
+        "last_edited_time": "2024-05-08T07:30:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Email Design Software",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Email Design Software",
+              "href": null
+            }
+          ],
+          "type": "external",
+          "external": {
+            "url": "https://images.unsplash.com/photo-1604933762021-54a5858c9832?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb"
+          }
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "2d020a84-68bc-4372-9af2-7334ee1b057d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "1. Mailsplash",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "1. Mailsplash",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "d1be208e-bf3b-44c7-bc33-b1501cb9deba",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mailsplash",
+                "link": {
+                  "url": "https://mailsplash.ai/"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mailsplash",
+              "href": "https://mailsplash.ai/"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " is an AI-powered tool to create stunning email templates that convert. Design and create stunning/converting emails (campaigns, flows, all of it) in minutes. Send with any email service provider (Mailchimp, Klaviyo, etc.). We enable freelancers, brands, and agencies to rapidly create personalized, converting email campaigns at lower cost than traditional marketing agencies, from email copywriting, to personalized branded email template design.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " is an AI-powered tool to create stunning email templates that convert. Design and create stunning/converting emails (campaigns, flows, all of it) in minutes. Send with any email service provider (Mailchimp, Klaviyo, etc.). We enable freelancers, brands, and agencies to rapidly create personalized, converting email campaigns at lower cost than traditional marketing agencies, from email copywriting, to personalized branded email template design.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "467ebc16-c0fa-4539-ab7a-fb2e18a659ca",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Try our ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Try our ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "All-in-one Email Solution",
+                "link": {
+                  "url": "https://mailsplash.ai/use-cases"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "All-in-one Email Solution",
+              "href": "https://mailsplash.ai/use-cases"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " today for free.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " today for free.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "f64d7f54-b752-466e-a6b1-6214b0ba2e87",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "2. Stripo",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "2. Stripo",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "c2f5ed46-1973-424a-ae96-09d53bb78740",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Stripo is a top free email template builder to create your next email marketing campaign. It has a vast library of 1500+ templates, and ease of use makes it a great tool to use along with your email service provider.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Stripo is a top free email template builder to create your next email marketing campaign. It has a vast library of 1500+ templates, and ease of use makes it a great tool to use along with your email service provider.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "e88c4b95-257a-4586-abf6-21bea83d2054",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Simplifying Email Template Creation",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Simplifying Email Template Creation",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "ba213e9e-874d-48fe-9498-a9afc6e2418f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The drag-and-drop editor is user-friendly, allowing you to create responsive templates that look good regardless of mobile device and screen size. Another feature that strikes out is Stripo’s personal library of custom modules. This option lets you reuse your module creations, saving crucial time and simplifying template creation.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The drag-and-drop editor is user-friendly, allowing you to create responsive templates that look good regardless of mobile device and screen size. Another feature that strikes out is Stripo’s personal library of custom modules. This option lets you reuse your module creations, saving crucial time and simplifying template creation.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "95d77d9d-d215-421b-90d5-f395ffb61b87",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Ensuring Email Design Quality and User Experience",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Ensuring Email Design Quality and User Experience",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "e7941bc5-7c25-442f-b39f-d3c87f7d962c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The email design software also comes with an email testing tool that lets you send test emails to check how your design looks in the inbox. Apart from that, the template builder lets you validate dynamic AMP emails to ensure a seamless user experience. Finally, you can request a custom email template from professionals.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The email design software also comes with an email testing tool that lets you send test emails to check how your design looks in the inbox. Apart from that, the template builder lets you validate dynamic AMP emails to ensure a seamless user experience. Finally, you can request a custom email template from professionals.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "d8490194-1ad3-4de9-9776-40d1dd956be0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Stripo Features",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Stripo Features",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "fe837d58-de1f-4035-9c4e-1f2b369ec874",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Easy to use without HTML code or CSS knowledge",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Easy to use without HTML code or CSS knowledge",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "9a911f62-b622-40e1-bdab-25f067cc6f48",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Embed videos and GIFs",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Embed videos and GIFs",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "c7eb8182-f072-4b07-b514-819c548ff638",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Integrations with ESPs through API like Moosend",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Integrations with ESPs through API like Moosend",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "153ad778-a508-4451-933e-4bd03bef860d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "VML buttons for email clients like Outlook",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "VML buttons for email clients like Outlook",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "05062f46-60cb-4ef8-a1c0-65157d680de7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "SaaS applications plugin",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "SaaS applications plugin",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "db9caf14-ec27-4e3a-b7b2-9d20eace4f51",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pricing",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pricing",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "f4bfec24-fa16-4d79-a0f0-b850da6afa2c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This tool offers a free plan that allows up to 4 exports and 5 test emails per day. There is also a free plugin version of the editor, allowing 100 email creations/edits per month. For more, the tool offers three paid plans starting at $15/month, giving you access to premium templates and increasing your limits.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This tool offers a free plan that allows up to 4 exports and 5 test emails per day. There is also a free plugin version of the editor, allowing 100 email creations/edits per month. For more, the tool offers three paid plans starting at $15/month, giving you access to premium templates and increasing your limits.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "18976c64-2ca5-4614-98f2-283f9c631e47",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "3. Tabular",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "3. Tabular",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "188ea288-8a80-442d-b967-b26b7d266f59",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tabular is another free email template creator that stands out due to its intuitive email layout editing. The tool will be a great fit for anyone wanting to create quality email templates without writing a single line of code.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tabular is another free email template creator that stands out due to its intuitive email layout editing. The tool will be a great fit for anyone wanting to create quality email templates without writing a single line of code.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "87bcd54e-b1be-457c-bfa9-11c21b549b79",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Streamlining Email Template Customization",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Streamlining Email Template Customization",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "ce9db550-6e3a-4c45-b51b-ad507594c62d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The drag-and-drop editor is modern and feels easy to use. What’s great is that it comes with various pre-built “blocks” that drastically save time. During our test, we found 38 templates available in the library for customization. The tool automatically adjusts row and column widths as you drag them, eliminating complexity.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The drag-and-drop editor is modern and feels easy to use. What’s great is that it comes with various pre-built “blocks” that drastically save time. During our test, we found 38 templates available in the library for customization. The tool automatically adjusts row and column widths as you drag them, eliminating complexity.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "92724e8e-7eb7-4503-8e1f-68146cf8bb08",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Ensuring Seamless Mobile Design and Client Compatibility",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Ensuring Seamless Mobile Design and Client Compatibility",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "3e965da9-5f2e-4473-997f-c248f5cf5f25",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tabular excels when it comes to mobile design. You’re free to adjust column widths, margin, padding, typography, and visibility, without affecting the desktop version. The platform also focuses on email testing. You can preview how your templates display on different email clients to ensure a seamless and professional result.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tabular excels when it comes to mobile design. You’re free to adjust column widths, margin, padding, typography, and visibility, without affecting the desktop version. The platform also focuses on email testing. You can preview how your templates display on different email clients to ensure a seamless and professional result.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "80182fa3-e4f8-436b-af75-02fe4e2c3eab",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tabular Features",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tabular Features",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "684c312f-7469-4433-a6ec-46419b4a8c1e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "More than 200 pre-made email modules",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "More than 200 pre-made email modules",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "525fedc1-880a-43fa-84bb-e9560764f8b9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Responsive design automatically",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Responsive design automatically",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "a16d528e-8dd9-4002-bf56-ea2d8f514d3f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Personalization with dynamic content",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Personalization with dynamic content",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "4208acfb-fe0a-46e6-831e-24ba442f1655",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Collaboration features (team blocks, public demo pages)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Collaboration features (team blocks, public demo pages)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "097feace-1021-4563-bfc8-3f080ccb3493",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Integration with popular ESPs like Moosend, HubSpot, Klaviyo, and more",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Integration with popular ESPs like Moosend, HubSpot, Klaviyo, and more",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "6ff9226e-b6a5-4038-a10b-3432f97f0205",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pricing",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pricing",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "e4b0c917-b435-4667-95ee-bf1ed4573cae",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tabular has a free plan that has limited features and allows 3 template exports per month and 5 email previews daily. For additional features, members, exports and more, there are three paid plans starting at $29/month (billed monthly).",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tabular has a free plan that has limited features and allows 3 template exports per month and 5 email previews daily. For additional features, members, exports and more, there are three paid plans starting at $29/month (billed monthly).",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "fdf0d90a-1b61-4971-917f-5bf58d03156a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "4. HubSpot",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "4. HubSpot",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "9a8e2c72-3e2d-41cc-928a-81dae58c8a16",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HubSpot is a free and easy-to-use email template builder that empowers marketers to build aesthetic and engaging email templates. With its drag-and-drop functionality, you can easily add and rearrange items as you like.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HubSpot is a free and easy-to-use email template builder that empowers marketers to build aesthetic and engaging email templates. With its drag-and-drop functionality, you can easily add and rearrange items as you like.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "1fc13b35-4b00-49af-97ee-6b3970f3de46",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "To jumpstart your newsletter creation, HubSpot provides 20 templates (5 free and 15 premium) to build upon. While they are not a lot, they can save you if you’re in need of a starting point. The best part of HubSpot’s tools is access to their all-in-one CRM that stores all your customer information in one place. This means you can access your customer data from any sales, marketing, or customer support team and use them to personalize your templates and email campaigns.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "To jumpstart your newsletter creation, HubSpot provides 20 templates (5 free and 15 premium) to build upon. While they are not a lot, they can save you if you’re in need of a starting point. The best part of HubSpot’s tools is access to their all-in-one CRM that stores all your customer information in one place. This means you can access your customer data from any sales, marketing, or customer support team and use them to personalize your templates and email campaigns.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "2984789f-fce0-4f32-8e40-281a5aca56c9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HubSpot Features",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HubSpot Features",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "f8ff477b-8482-465d-95f0-f05948a0ce77",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Branded email template drag-and-drop builder",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Branded email template drag-and-drop builder",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "0c9c40e5-a32f-4427-8b36-d376dba979a9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Email tracking and rich analytics",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Email tracking and rich analytics",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "79a50d75-7519-47b2-839a-00ce5094fd5c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Document management and tracking",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Document management and tracking",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "b92a699c-97f0-439b-978d-2fd7b8c70d9f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Call tracking",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Call tracking",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "e4c4a9b1-5a3b-4ff2-ba32-fa354be71776",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Conversation artificial intelligence",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Conversation artificial intelligence",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "00db0c1d-38e5-4da9-a02a-3e831837fb02",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pricing",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pricing",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "ad28f2b9-cb5a-4ce3-be0e-b4508a1ce2c4",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The platform offers free email, sales, and CMS tools you can use without providing a credit card. Regarding premium pricing, the platform has paid plans with advanced features starting at $20 per month for 1,000 subscribers.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The platform offers free email, sales, and CMS tools you can use without providing a credit card. Regarding premium pricing, the platform has paid plans with advanced features starting at $20 per month for 1,000 subscribers.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "69ff2da6-4efb-4d3a-ba7c-f5d1ebf0fc3e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "5. Beefree",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "5. Beefree",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "e8df1932-5538-4b3a-983d-e7d52918f710",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Like Tabular and Stripo, Beefree is a free email template builder that allows you to create simple email templates and export them to your favorite ESP. Working with this email designer is very easy, and you can create a responsive template without having any coding skills. The tool can save you valuable time as it allows you to drop images from your desktop, clone elements, and move everything around.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Like Tabular and Stripo, Beefree is a free email template builder that allows you to create simple email templates and export them to your favorite ESP. Working with this email designer is very easy, and you can create a responsive template without having any coding skills. The tool can save you valuable time as it allows you to drop images from your desktop, clone elements, and move everything around.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "6ca90c01-b7f0-4ee0-a969-8193f83bd0f5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "When it comes to responsiveness, the builder constantly tests its templates to ensure that the email design won’t feel out of place. Beefree’s template library numbers 1,376 professionally designed templates that you can customize to your liking. You can access the template library even without an account. And if you need an industry-specific template for your email campaigns, you can have one made for you through the Custom Design Service.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "When it comes to responsiveness, the builder constantly tests its templates to ensure that the email design won’t feel out of place. Beefree’s template library numbers 1,376 professionally designed templates that you can customize to your liking. You can access the template library even without an account. And if you need an industry-specific template for your email campaigns, you can have one made for you through the Custom Design Service.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "159292df-98db-4472-a38b-4841781391ca",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Beefree Features",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Beefree Features",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "34efde4a-305e-40bd-919f-0f7b87d3241b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Drag-and-drop email editor",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Drag-and-drop email editor",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "18d480bf-abd3-4cda-afed-facdc5d655a8",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Responsiveness tests for Outlook, Gmail, and more",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Responsiveness tests for Outlook, Gmail, and more",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "1d10b8a3-82c7-4daa-9432-31660da84180",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Ability to send test emails to email clients",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Ability to send test emails to email clients",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "88c4c4fc-777e-4b1f-b027-b5c9bd61431f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Landing page builder",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Landing page builder",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "203c04a0-b8fe-427c-b33c-fa693f5d8095",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Integration with popular ESPs like Brevo, Constant Contact, and Salesforce",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Integration with popular ESPs like Brevo, Constant Contact, and Salesforce",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "1c9fb012-60ce-4154-aafa-85a7fa978b3e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pricing",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pricing",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "1012d51f-fca7-4679-9f9d-62763be010c3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Beefree has a free plan for occasional projects, limited to 10 emails and/or pages, and 6 exports/month. For more functionality and unlimited emails, the template software has three paid plans starting at $30/month, which unlock features such as custom merge tags and conditional statements.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Beefree has a free plan for occasional projects, limited to 10 emails and/or pages, and 6 exports/month. For more functionality and unlimited emails, the template software has three paid plans starting at $30/month, which unlock features such as custom merge tags and conditional statements.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "d3e359b7-6c4b-4bb1-a538-40b65e590434",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "6. Mailchimp",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "6. Mailchimp",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "56db8bc1-8edb-4cbe-96bd-e03f3b77f38d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mailchimp is among the most popular email template builders you can find, sporting an easy-to-use email designer. The tool comes with a handy email template library containing more than 100 ready-made designs. The downside is that free plan users only get the basic templates.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mailchimp is among the most popular email template builders you can find, sporting an easy-to-use email designer. The tool comes with a handy email template library containing more than 100 ready-made designs. The downside is that free plan users only get the basic templates.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "e0def70f-44e6-4c46-aabc-3484e1f3ccfb",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mailchimp’s new email template builder allows you to edit your elements directly on your content block. So if you’ve used other template builders, Mailchimp’s content blocks will feel just fine. The tool’s Content Studio will help edit and manage your images and files. As an email marketing platform, Mailchimp will also give you extra features like automation to deliver your email campaign at the right time. While the automation options are robust, Mailchimp’s marketing automation isn’t as flexible as other Mailchimp alternatives on our list.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mailchimp’s new email template builder allows you to edit your elements directly on your content block. So if you’ve used other template builders, Mailchimp’s content blocks will feel just fine. The tool’s Content Studio will help edit and manage your images and files. As an email marketing platform, Mailchimp will also give you extra features like automation to deliver your email campaign at the right time. While the automation options are robust, Mailchimp’s marketing automation isn’t as flexible as other Mailchimp alternatives on our list.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "b78eb4dc-6086-46be-9c02-f3481aad0f95",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mailchimp Features",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mailchimp Features",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "e4c6b514-caab-47bd-818e-b6bc58590ef2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Variety of ready-made email templates",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Variety of ready-made email templates",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "917e8116-8e5d-477f-94d1-4fae458cb909",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Drag-and-drop email builder",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Drag-and-drop email builder",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "a64ae437-4666-4a31-a007-acd45db222ab",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Online form builder to boost newsletter signups",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Online form builder to boost newsletter signups",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "4772cba7-afe8-4eb4-a6a9-f617b4a17f95",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Design testing tool for different email clients",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Design testing tool for different email clients",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "e126994d-5990-4b9e-bdf3-3e647a425266",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Creative Assistant feature to design on-brand emails",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Creative Assistant feature to design on-brand emails",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "1d28e8d8-8584-4e7b-8a0b-2f17712eb10d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pricing",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pricing",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "b87bdf9a-b994-4693-a101-9fddd336a058",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The platform has a very limited free plan for 500 subscribers. Then, pricing starts at $20/month for 500 subscribers, giving you access to custom templates and more.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The platform has a very limited free plan for 500 subscribers. Then, pricing starts at $20/month for 500 subscribers, giving you access to custom templates and more.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "574d4484-e1bc-4e47-86cb-043a342e25d6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "7. Topol.io",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "7. Topol.io",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "d5f76ec2-c053-4436-adef-e7cd7a12cc33",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Topol.io is a full-fledged email template builder that favors simplicity, making it a great tool for beginner users. Its drag-and-drop editor makes template creation effortless without graphic design or ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Topol.io is a full-fledged email template builder that favors simplicity, making it a great tool for beginner users. Its drag-and-drop editor makes template creation effortless without graphic design or ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "HTML coding",
+                "link": {
+                  "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HTML coding",
+              "href": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " knowledge.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " knowledge.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "cd3dd790-4780-4183-94ee-3b6b3cbb0604",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Advanced features aren’t absent. Most notably, you can create reusable custom blocks and personalize your emails with merge tags. This functionality increases efficiency while allowing users to deliver more personalized campaigns that make sense. What’s more, there are over 150 pre-designed templates that are easy to customize. Topol.io also lets you use high-quality, royalty-free images from Pexels to enhance the appearance of your emails.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Advanced features aren’t absent. Most notably, you can create reusable custom blocks and personalize your emails with merge tags. This functionality increases efficiency while allowing users to deliver more personalized campaigns that make sense. What’s more, there are over 150 pre-designed templates that are easy to customize. Topol.io also lets you use high-quality, royalty-free images from Pexels to enhance the appearance of your emails.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "82dfbaea-397c-42ef-9fb2-c9095ce0cdb9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This email template builder supports collaboration, allowing team members to share their templates and work together on them. You can add your products directly to your email campaigns via XML feeds.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This email template builder supports collaboration, allowing team members to share their templates and work together on them. You can add your products directly to your email campaigns via XML feeds.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "a0fbd6a2-b5d8-4d12-a536-cd8844acd85b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Topol.io Features",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Topol.io Features",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "5ef03352-06f4-4974-9d50-f83c17788dbf",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "150+ templates available",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "150+ templates available",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "658d2809-bd86-4c32-9cbc-525b7dda6629",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Reusable custom blocks",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Reusable custom blocks",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "413b9400-9c75-47db-a09a-dd707689798a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Custom HTML code builder for flexibility over the design",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Custom HTML code builder for flexibility over the design",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "363d84b1-02ff-4756-92dd-efd16421057d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Add your products via XML feeds",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Add your products via XML feeds",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "72464cd8-3cb2-43ab-b0c3-25967bc9f2bb",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Integration with most email service providers",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Integration with most email service providers",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "533a8044-0582-432e-a8b3-e2969d50fd0d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pricing",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pricing",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "children": []
+      },
+      {
+        "object": "block",
+        "id": "db85af9e-1a9f-4d92-bda0-697184d364d2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "c29ed8bd-8c8c-42a3-951c-534c1d25df14"
+        },
+        "created_time": "2024-05-08T07:26:00.000Z",
+        "last_edited_time": "2024-05-08T07:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "7c40e65d-8324-42ee-97be-e7491c14cb5d"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Topol.io has a free plan with a limited feature set that’s great mostly for personal use. For advanced features, you need a paid plan starting at $15/month (billed monthly).",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Topol.io has a free plan with a limited feature set that’s great mostly for personal use. For advanced features, you need a paid plan starting at $15/month (billed monthly).",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": []
+      }
+    ]
+  }
+]

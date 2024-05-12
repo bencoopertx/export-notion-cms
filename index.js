@@ -8,6 +8,7 @@ const minify = require("html-minifier").minify;
 require("dotenv").config();
 
 const notion = new Client({ auth: process.env.NOTION_API_KEY });
+const MB_LIMIT = process.env.MB_LIMIT;
 
 function convertToSlug(Text) {
 	if (!Text) return undefined;
@@ -183,10 +184,16 @@ async function importPages() {
 		}
 	});
 
-	console.log("Exported pages count:", pagesData?.length);
 	for (const page of pagesData) {
-		csvWriter = await getCsvWriter(page.title);
+		const size = getSize(page);
+		if (currentSize + size >= MB_LIMIT * bytesPerMb) {
+			fileIndex += 1;
+			csvWriter = getCsvWriter(fileIndex);
+			currentSize = 0;
+		}
+
 		await csvWriter.writeRecords([page]);
+		currentSize += size;
 	}
 }
 

@@ -1,6 +1,6 @@
 **Warning**
 
-Framer currently does not support files larger than 5mb when importing. This may make it so some previous notion CMS entries become invalid or unusable. 
+Framer currently does not support files larger than 5mb when importing. This may make it so some notion CMS entries with large images become unusable, and must be imported manually. 
 
 **Basic**
 
